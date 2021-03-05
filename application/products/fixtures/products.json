@@ -1,0 +1,42 @@
+[
+  {
+    "model": "products.Products",
+    "pk": 1,
+    "fields": {
+      "name": "TestProduct1",
+      "price": 6
+    }
+  },
+    {
+    "model": "products.Products",
+    "pk": 2,
+    "fields": {
+      "name": "TestProduct2",
+      "price": 2
+    }
+  },
+    {
+    "model": "products.Products",
+    "pk": 3,
+    "fields": {
+      "name": "TestProduct3",
+      "price": 6
+    }
+  },
+    {
+    "model": "products.Products",
+    "pk": 4,
+    "fields": {
+      "name": "TestProduct4",
+      "price": 2
+    }
+  },
+    {
+    "model": "products.Products",
+    "pk": 5,
+    "fields": {
+      "name": "TestProduct5",
+      "price": 6
+    }
+  }
+]

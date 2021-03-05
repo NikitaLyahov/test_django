@@ -1,0 +1,100 @@
+[
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 1,
+      "product_id": 1,
+      "non_customer_product": null
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 1,
+      "product_id": 2,
+      "non_customer_product": null
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 2,
+      "product_id": null,
+      "non_customer_product": 2
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 2,
+      "product_id": null,
+      "non_customer_product": 2
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 2,
+      "product_id": null,
+      "non_customer_product": 3
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 3,
+      "product_id": 3,
+      "non_customer_product": null
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 3,
+      "product_id": 4,
+      "non_customer_product": null
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 3,
+      "product_id": 5,
+      "non_customer_product": null
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 4,
+      "product_id": null,
+      "non_customer_product": 3
+    }
+  },
+  {
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 4,
+      "product_id": null,
+      "non_customer_product": 4
+    }
+  },{
+    "model": "orders.Items",
+    "pk": null,
+    "fields": {
+      "order_id": 4,
+      "product_id": null,
+      "non_customer_product": 5
+    }
+  }
+]

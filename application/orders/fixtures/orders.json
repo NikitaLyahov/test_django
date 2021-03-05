@@ -1,0 +1,34 @@
+[
+  {
+    "model": "orders.Orders",
+    "pk": 1,
+    "fields": {
+      "number": "5",
+      "customer_id": 1
+    }
+  },
+  {
+    "model": "orders.Orders",
+    "pk": 2,
+    "fields": {
+      "number": "3",
+      "customer_id": 2
+    }
+  },
+  {
+    "model": "orders.Orders",
+    "pk": 3,
+    "fields": {
+      "number": "7",
+      "customer_id": 2
+    }
+  },
+  {
+    "model": "orders.Orders",
+    "pk": 4,
+    "fields": {
+      "number": "9",
+      "customer_id": 2
+    }
+  }
+]

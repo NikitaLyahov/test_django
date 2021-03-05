@@ -1,0 +1,18 @@
+[
+  {
+    "model": "customers.Customers",
+    "pk": 1,
+    "fields": {
+      "first_name": "Timmy",
+      "last_name": "Turner"
+    }
+  },
+  {
+    "model": "customers.Customers",
+    "pk": 2,
+    "fields": {
+      "first_name": "John",
+      "last_name": "Dow"
+    }
+  }
+]

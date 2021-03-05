@@ -1,0 +1,34 @@
+[
+  {
+    "model": "orders.Status",
+    "pk": 1,
+    "fields": {
+      "paid": true,
+      "order_id": 1
+    }
+  },
+    {
+    "model": "orders.Status",
+    "pk": 2,
+    "fields": {
+      "paid": true,
+      "order_id": 2
+    }
+  },
+    {
+    "model": "orders.Status",
+    "pk": 3,
+    "fields": {
+      "paid": true,
+      "order_id": 3
+    }
+  },
+    {
+    "model": "orders.Status",
+    "pk": 4,
+    "fields": {
+      "paid": false,
+      "order_id": 4
+    }
+  }
+]

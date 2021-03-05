@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <h1>Orders:</h1>
+        <ul>
+            {% for order in orders %}
+                <li>
+                    <p>customer first_name: {{ order.customer__first_name }}</p>
+                    <p>customer last_name: {{ order.customer__last_name }}</p>
+                    <p>customer emails: {{ order.customer__emails__address }}</p>
+                    <p>number: {{ order.number }}</p>
+                    <p>status: {{ order.status__paid }}</p>
+                    <p>products: {{ order.products }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+        <br>
+        <br>
+        <br>
+        <h3>{{ query }}</h3>
+    </body>
+</html>

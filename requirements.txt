@@ -1,0 +1,7 @@
+Django==3.1.7
+flake8==3.8.4
+flake8==3.8.4
+gunicorn==20.0.4
+mypy==0.812
+psycopg2==2.8.6
+python-decouple==3.4
